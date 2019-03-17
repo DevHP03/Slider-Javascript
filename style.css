@@ -1,5 +1,5 @@
 body{
-    background: ;
+    background: rgb(255, 0, 0) ;
     font-family: lato;
 }
 
@@ -72,6 +72,6 @@ body{
     }
 
     100%{
-        opacity: 1;
+        opacity: 1;background:blue;
     }
 }
